@@ -11,7 +11,7 @@
     <td align="center"><a href="https://github.com/ddogok"><img src="https://avatars.githubusercontent.com/ddogok" width="150px;" alt=""></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/chaechae10"><b>김채연</b></td>
+    <td align="center"><a href="https://github.com/chaechae10"><b>김채연을날려라</b></td>
     <td align="center"><a href="https://github.com/ddogok"><b>김수민</b></td>
   </tr>
   <tr> 
